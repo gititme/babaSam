@@ -1,0 +1,45 @@
+[
+        {
+          itemName: 'Banarasi paan',
+          id: 1,
+          itemPrice: '20 Rs.',
+	itemImage:'banarasi-paan.jpeg'	
+        },
+        {
+          itemName: 'Fire paan',
+          id: 2,
+          itemPrice: '40 Rs.',
+	itemImage:'fire-paan.jpeg'
+        },
+        {
+          itemName: 'Choclate paan',
+          id: 3,
+          itemPrice: '20 Rs.',itemImage:'choclate-paan.jpeg'
+        },
+        {
+          itemName: 'Ice paan',
+          id: 4,
+          itemPrice: '30 Rs.',itemImage:'ice-paan.jpg'
+
+        },
+        {
+          itemName: 'Meetha paan',
+          id: 5,
+          itemPrice: '20 Rs.',itemImage:'meeta-paan.jpeg'
+        },
+        {
+          itemName: 'Katha paan',
+          id: 6,
+          itemPrice: '40 Rs.',itemImage:'katha-paan.wpeg'
+        },
+        {
+          itemName: 'Blueberry paan',
+          id: 7,
+          itemPrice: '20 Rs.',itemImage:'blueberry-paan.jpeg'
+        },
+        {
+          itemName: 'Ice paan',
+          id: 4,
+          itemPrice: '30 Rs.',itemImage:'ice-cream-paan.jpg'
+        }
+      ]
